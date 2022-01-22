@@ -1,0 +1,6 @@
+{
+    "name": "Fenster",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }
